@@ -1,10 +1,10 @@
-👍ola,me chamo me matheus
+👍Ola,me chamo Matheus
 
-✌️estou cursando o 2 semestre de análise e desenvolvimento de sistemas
+✌️Estou cursando análise e desenvolvimento de sistemas
 
-✌️conhecimento básico em HTML,CSS e javascript
+✌️Conheciment basic em HTML,CSS,JAVASCRIPT
 
-✌️quero evoluir e ser produtivo em tudo que  faço
+✌️Quero evoluir e  ser produtivo em tudo que faço
 
 
 <!---
